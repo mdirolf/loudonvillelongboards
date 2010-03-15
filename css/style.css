@@ -52,7 +52,8 @@ body {
     color: #FFE;
 }
 #ul td {
-    padding-right: 20px
+    padding-right: 20px;
+    letter-spacing: 0em;
 }
 #ft {
     font-size: 1em;
