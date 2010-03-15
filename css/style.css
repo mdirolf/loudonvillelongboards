@@ -1,0 +1,76 @@
+body {
+    font-family: "arial black", "arial";
+    letter-spacing: -0.1em;
+    color: #111;
+    background-color: #FFE;
+}
+#bd {
+    margin: auto;
+    width: 830px;
+}
+#ln {
+    font-size: 0.75em;
+    letter-spacing: 0em;
+    color: #111;
+    text-align: right;
+    margin-bottom: -1.5em;
+    margin-right: 20px;
+}
+#cy {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-left: 20px;
+}
+#sn {
+    font-size: 1.5em;
+    margin-left: 20px;
+    margin-bottom: 1.5em;
+}
+#sb {
+    font-size: 2em;
+    text-align: right;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-bottom: -0.5em;
+}
+#ll {
+    font-size: 4.1em;
+    letter-spacing: -0.07em;
+    color: #CC3333;
+    font-weight: bold;
+}
+#ll a {
+    color: #CC3333;
+}
+#ll a:hover {
+    text-decoration: none;
+}
+#ll img {
+    width: 0.75em;
+    margin-right: 0.3em;
+    margin-left: 20px;
+    color: #FFE;
+}
+#ul td {
+    padding-right: 20px
+}
+#ft {
+    font-size: 1em;
+    text-align: right;
+    padding-right: 20px;
+    border-top: 5px solid #CC3333;
+    padding-top: 20px;
+    margin-top: 70px;
+}
+#r {
+    padding-left: 20px;
+    float: left;
+    color: #CC3333;
+}
+a {
+    text-decoration: none;
+    color: #111;
+}
+a:hover {
+    text-decoration: underline;
+}
